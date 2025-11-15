@@ -4,8 +4,8 @@
 In prog
 
 ## Demo
-![Demo](/assets/Kalman Demo.gif)
-![Demo](/assets/Self-Balancing Robot Demo.gif)
+![Demo](self-balancing-bot/assets/Kalman_Demo.gif)
+![Demo](self-balancing-bot/assets/Self-Balancing_Robot_Demo.gif)
 
 
 

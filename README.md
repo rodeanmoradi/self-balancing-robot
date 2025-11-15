@@ -4,6 +4,5 @@
 In prog
 
 ## Demo
-![Demo](assets/Robot_Demo.gif)
-![Demo](assets/Kalman_Demo.gif)
+![Demo](./assets/Robot_Demo.gif)
 

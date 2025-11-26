@@ -11,7 +11,7 @@ This project implements a real-time embedded control system for a two-wheeled, i
 
 ## Architecture
 
-Sensing via IMU -> State Estimation via Kalman filter -> State -> Control (PID) -> Actuation Signal (Arduino PWM) -> Actuation (DC Motors and L298N Driver)
+Sensing via IMU -> State Estimation via Kalman filter -> Control (PID) -> Actuation Signal (Arduino PWM) -> Actuation (DC Motors and L298N Driver)
 
 ## Achievements
 

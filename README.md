@@ -1,13 +1,13 @@
 # self-balancing-bot
 
+## Overview
+
+This project implements a real-time embedded control system for a two-wheeled, inverted pendulum robot. The core of the system is a closed-loop C++ pipeline running on an Arduino Uno that handles sensor fusion, state estimation, and motor control to maintain balance.
+
 ## Demo
 ![Demo](assets/Kalman%20Demo.gif)
 
 ![Demo](assets/Self-Balancing%20Robot%20Demo.gif)
-
-## Overview
-
-This project implements a real-time embedded control system for a two-wheeled, inverted pendulum robot. The core of the system is a closed-loop C++ pipeline running on an Arduino Uno that handles sensor fusion, state estimation, and motor control to maintain balance.
 
 ## Architecture
 

@@ -1,4 +1,4 @@
-# self-balancing-bot
+# Self-Balancing Robot
 
 ## Overview
 
